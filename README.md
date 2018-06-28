@@ -1,6 +1,6 @@
-Trying to complete the tour of heroes from scratch 
+# Trying to complete the tour of heroes from scratch 
 
-# AngluarTourOfHeroes
+## Angular Tour Of Heroes
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
